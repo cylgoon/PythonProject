@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 plt.rcParams['font.sans-serif'] = ['Arial']
 plt.rcParams['figure.dpi'] = 150
 
